@@ -4,6 +4,8 @@
 
 This module is used for expanding merchant profile storage data with merchant id.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
