@@ -4,6 +4,9 @@
 
 This module is used for expanding merchant profile storage data with merchant id.
 
+**DEPRECATED - This module is not continued at this point.**
+**Partially can be replaced by MerchantStorage together with MerchantProfile (see Spryker\Zed\MerchantProfile\Communication\Plugin\Merchant\MerchantProfileExpanderPlugin) module.**
+
 ## Installation
 
 ```
