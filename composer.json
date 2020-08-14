@@ -51,5 +51,5 @@
   "config": {
     "sort-packages": true
   },
-  "abandoned": true
+  "abandoned": "spryker/merchant-storage",
 }
